@@ -6,7 +6,7 @@ stages {
 
 stage('Checkout') {
 steps {
-git 'https://github.com/yourusername/jenkins-demo-app.git'
+git 'git 'https://github.com/AshrafS7090/jenkins-demo-app.git''
 }
 }
 
